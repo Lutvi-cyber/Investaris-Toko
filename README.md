@@ -1,6 +1,6 @@
 # Investaris-Toko
 # Proyek Mandiri: Inventaris Toko
-Nama: Ahmad Lutfi | NPM: (isi) | Mata kuliah: Pemrograman Terstruktur
+Nama: Ahmad Lutfi | NPM: 2557052009 | Mata kuliah: Pemrograman Terstruktur
 
 Program Python untuk mengelola inventaris toko alat tulis: membuat,
 menambah, membaca, menganalisis, melaporkan data lewat file, dan mengujinya.
